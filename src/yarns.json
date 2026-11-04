@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Moss & stone",
+    "colors": ["Green", "Neutral"],
+    "kind": "Color pairing",
+    "description": "Olive green and gray yarn balls with loose trailing threads.",
+    "image": "1.png"
+  },
+  {
+    "id": 2,
+    "name": "Spring garden",
+    "colors": ["Green", "Pink"],
+    "kind": "Single yarn",
+    "description": "Pale green fluffy yarn with pink flecks.",
+    "image": "2.png"
+  },
+  {
+    "id": 3,
+    "name": "Mulberry dusk",
+    "colors": ["Pink", "Purple"],
+    "kind": "Single yarn",
+    "description": "Variegated plum and rust-colored skein.",
+    "image": "3.png"
+  },
+  {
+    "id": 4,
+    "name": "Forest floor",
+    "colors": ["Green", "Blue"],
+    "kind": "Color pairing",
+    "description": "Dark blue and olive marled skein with a smaller matching ball.",
+    "image": "4.png"
+  },
+  {
+    "id": 5,
+    "name": "Sea glass",
+    "colors": ["Green", "Blue"],
+    "kind": "Single yarn",
+    "description": "A soft blue-green skein of yarn.",
+    "image": "5.png"
+  },
+  {
+    "id": 6,
+    "name": "Candy & cocoa",
+    "colors": ["Pink", "Blue", "Neutral"],
+    "kind": "Color pairing",
+    "description": "Pink, turquoise, and brown yarn balls.",
+    "image": "6.png"
+  },
+  {
+    "id": 7,
+    "name": "Coffee & cream",
+    "colors": ["Neutral"],
+    "kind": "Color pairing",
+    "description": "Brown and cream yarn balls with loose strands.",
+    "image": "7.png"
+  },
+  {
+    "id": 8,
+    "name": "Deep moss",
+    "colors": ["Green"],
+    "kind": "Single yarn",
+    "description": "A dark olive green fuzzy yarn ball.",
+    "image": "8.png"
+  },
+  {
+    "id": 9,
+    "name": "A box of colors",
+    "colors": ["Yellow", "Blue", "Purple", "Neutral"],
+    "kind": "Color pairing",
+    "description": "Yellow, teal, purple, gray, and turquoise yarn balls.",
+    "image": "9.png"
+  },
+  {
+    "id": 10,
+    "name": "Oat milk",
+    "colors": ["Neutral"],
+    "kind": "Single yarn",
+    "description": "A pale beige yarn ball with a long trailing strand.",
+    "image": "10.png"
+  },
+  {
+    "id": 11,
+    "name": "Rosewater",
+    "colors": ["Pink", "Green"],
+    "kind": "Color pairing",
+    "description": "Two dusty pink textured yarn balls and one pale green ball.",
+    "image": "11.png"
+  },
+  {
+    "id": 12,
+    "name": "Lavender sky",
+    "colors": ["Purple", "Blue"],
+    "kind": "Color pairing",
+    "description": "Lavender and pale blue yarn balls.",
+    "image": "12.png"
+  },
+  {
+    "id": 13,
+    "name": "Jewel box",
+    "colors": ["Pink", "Blue", "Green", "Purple", "Neutral"],
+    "kind": "Color pairing",
+    "description": "An assortment of jewel-colored yarn balls with variegated strands.",
+    "image": "13.png"
+  },
+  {
+    "id": 14,
+    "name": "Midnight blue",
+    "colors": ["Blue"],
+    "kind": "Single yarn",
+    "description": "A dark navy textured skein.",
+    "image": "14.png"
+  },
+  {
+    "id": 15,
+    "name": "Little confetti",
+    "colors": ["Neutral", "Yellow", "Pink", "Green", "Purple"],
+    "kind": "Single yarn",
+    "description": "A black yarn ball dotted with multicolored flecks.",
+    "image": "15.png"
+  }
+]
